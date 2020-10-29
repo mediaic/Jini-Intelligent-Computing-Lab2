@@ -30,7 +30,7 @@
 This is a template github repository for hls projects with credits >3.
 
 **Directory structure**
-* **READ.md** - introduce the project, algorithm, reference ....
+* **README.md** - introduce the project, algorithm, reference ....
 * **code/**
   * original - original code from open source if there is 
   * final (use inline pragma) - include both host and kernel code ※Note: host code must do auto-check
