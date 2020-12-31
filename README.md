@@ -16,12 +16,11 @@
 
 * [About the Project](#about-the-project)
 * [Usage](#usage)
-* [Algorithm](#Algorithm)
-* [References](#References)
+* [Algorithm](#algorithm)
+* [References](#references)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
@@ -45,22 +44,24 @@ This is a template github repository for hls projects with credits >3.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* build process
+* **build process**
+  * For example, if you have a host program
+  ```sh
+  python FIRN11MAXI.py
+  ```
+  * If you implemented with vitis on U50
+  ```sh
+  make run
+  ```
 
+<!-- Algorithm -->
 ## Algorithm
 
-
+<!-- References -->
 ## References
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-
-
-<!-- LICENSE -->
-## License
-
-
 
 <!-- CONTACT -->
 ## Contact
